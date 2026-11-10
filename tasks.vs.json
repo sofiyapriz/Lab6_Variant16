@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Part1_RaceCondition",
+      "appliesTo": "Part1_RaceCondition/",
+      "type": "launch"
+    }
+  ]
+}
